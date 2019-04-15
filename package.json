@@ -1,0 +1,9 @@
+{
+  "name": "python_minifier",
+  "description": "Script that minifies HTML, CSS, and JS files to improve web loading.",
+  "author": "Søren Møller Gade Hansen",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "python minifier.py"
+  }
+}
