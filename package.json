@@ -4,6 +4,6 @@
   "author": "Søren Møller Gade Hansen",
   "version": "0.0.1",
   "scripts": {
-    "test": "python minifier.py"
+    "test": "pytest minifier.py"
   }
 }
